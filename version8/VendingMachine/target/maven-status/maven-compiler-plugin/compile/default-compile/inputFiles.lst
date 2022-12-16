@@ -1,0 +1,17 @@
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/controller/VendingMachineController.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/service/InsufficientFundsException.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/service/VendingMachineServiceLayer.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/service/NoItemInventoryException.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/ServiceMoney/moneyChange.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineAuditDao.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/ServiceMoney/Change.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/VendingMachine.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/ui/UserIO.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineAuditDaoFileImpl.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/ui/VendingMachineView.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDao.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/ui/UserIOConsoleImpl.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/service/VendingMachineServiceLayerImpl.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/dto/Product.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDaoFileImpl.java
+/Users/lionwife/NetBeansProjects/Vending Machine versions/Version6-8/version8/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDaoException.java

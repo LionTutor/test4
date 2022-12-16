@@ -1,0 +1,6 @@
+1::TWIX::100::4
+2::COKE::50::4
+3::WATER::30::5
+4::SANDWICH::150::5
+5::ToyLion::200::0
+6::LegoBrick::12.5::14
